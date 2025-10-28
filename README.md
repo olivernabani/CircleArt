@@ -257,8 +257,7 @@ Usa la librería Shapely para:
 
 Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
 
-Copyright (c) 2025 - Circular Lines Generator
-
+Copyright (c) 2025 - Generador de Arte Circular
 
 ## Créditos
 
@@ -272,6 +271,7 @@ Copyright (c) 2025 - Circular Lines Generator
 **Fecha:** 2025
 
 ¡Disfruta creando arte circular! 🎨
+
 
 
 
