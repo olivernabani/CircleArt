@@ -3,7 +3,8 @@
 Generador de arte circular basado en imágenes en blanco y negro. Transforma una imagen en círculos concéntricos donde el grosor de cada línea varía según la intensidad de los píxeles, creando efectos visuales únicos.
 
 Ejemplo de generación, imagen "Bodoir"
-<img src="ejemplo.png" alt="Ejemplo generado" width="50%">
+
+<img src="example.png" alt="Ejemplo generado" width="50%">
 
 
 ## Características
@@ -272,4 +273,5 @@ Copyright (c) 2025 - Circular Lines Generator
 **Fecha:** 2025
 
 ¡Disfruta creando arte circular! 🎨
+
 
